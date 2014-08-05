@@ -493,4 +493,8 @@
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.4.4_r2" />
   <project path="vendor/cm" name="AOGP/android_vendor_cm" revision="kitkat" />
   <project path="vendor/cyngn" name="cyngn/android_vendor_cyngn" />
+
+  <!-- AOGP -->
+  <project path="packages/apps/AboutAOGP" name="AOGP/android_packages_apps_AboutAOGP" revision="master" />
+
 </manifest>
