@@ -498,5 +498,10 @@
   <project path="packages/apps/AboutAOGP" name="AOGP/android_packages_apps_AboutAOGP" revision="master" />
   <project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" />
   <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" />
-
+  
+  <!--AOGP devices, kernels, vendors-->
+  <project name="AOGP/android_vendor_samsung_i9082" path="vendor/samsung/i9082" remote="github" revision="kitkat" groups="notdefault,vendor,samsung" />
+  <project name="AOGP/android_device_samsung_i9082" path="device/samsung/i9082" remote="github" revision="kitkat" groups="notdefault,device,i9082" />
+  <project name="AOGP/android_kernel_samsung_i9082" path="kernel/samsung/i9082" remote="github" revision="kitkat" groups="notdefault,kernel,i9082" />
+ 
 </manifest>
