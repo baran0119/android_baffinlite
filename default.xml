@@ -496,5 +496,6 @@
 
   <!-- AOGP -->
   <project path="packages/apps/AboutAOGP" name="AOGP/android_packages_apps_AboutAOGP" revision="master" />
+  <project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" />
 
 </manifest>
