@@ -11,6 +11,10 @@ To initialize your local repository using the AOGP trees, use a command like thi
 
     repo init -u git://github.com/AOGP/android.git -b kitkat
 
+Init repo only for a i9082 device :
+
+repo init -u https://github.com/AOGP/android.git -b kitkat -g all,-notdefault,i9082,samsung
+
 Then to sync up:
 
     repo sync
