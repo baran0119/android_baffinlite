@@ -367,8 +367,6 @@
   <project path="packages/apps/CMAccount" name="CyanogenMod/android_packages_apps_CMAccount" />
   <project path="packages/apps/CMFileManager" name="CyanogenMod/android_packages_apps_CMFileManager" />
   <project path="packages/apps/CMHome" name="CyanogenMod/android_packages_apps_CMHome" />
-  <project path="packages/apps/CMUpdater" name="CyanogenMod/android_packages_apps_CMUpdater" />
-  <project path="packages/apps/CMWallpapers" name="CyanogenMod/android_packages_apps_CMWallpapers" />
   <project path="packages/apps/Contacts" name="CyanogenMod/android_packages_apps_Contacts" />
   <project path="packages/apps/ContactsCommon" name="CyanogenMod/android_packages_apps_ContactsCommon" />
   <project path="packages/apps/DeskClock" name="CyanogenMod/android_packages_apps_DeskClock" />
@@ -397,7 +395,6 @@
   <project path="packages/apps/Torch" name="CyanogenMod/android_packages_apps_Torch" />
   <project path="packages/apps/Trebuchet" name="CyanogenMod/android_packages_apps_Trebuchet" />
   <project path="packages/apps/UnifiedEmail" name="CyanogenMod/android_packages_apps_UnifiedEmail" />
-  <project path="packages/apps/VideoEditor" name="CyanogenMod/android_packages_apps_VideoEditor" />
   <project path="packages/apps/VoiceDialer" name="CyanogenMod/android_packages_apps_VoiceDialer" />
   <project path="packages/apps/VoicePlus" name="CyanogenMod/android_packages_apps_VoicePlus" />
   <project path="packages/experimental" name="CyanogenMod/android_packages_experimental" />
@@ -413,17 +410,10 @@
   <project path="packages/providers/TelephonyProvider" name="CyanogenMod/android_packages_providers_TelephonyProvider" />
   <project path="packages/providers/ThemesProvider" name="CyanogenMod/android_packages_providers_ThemesProvider" />
   <project path="packages/providers/UserDictionaryProvider" name="CyanogenMod/android_packages_providers_UserDictionaryProvider" />
-  <project path="packages/screensavers/Basic" name="CyanogenMod/android_packages_screensavers_Basic" />
   <project path="packages/screensavers/PhotoTable" name="CyanogenMod/android_packages_screensavers_PhotoTable" />
   <project path="packages/screensavers/WebView" name="CyanogenMod/android_packages_screensavers_WebView" />
   <project path="packages/services/Telephony" name="CyanogenMod/android_packages_services_Telephony" />
-  <project path="packages/wallpapers/Basic" name="CyanogenMod/android_packages_wallpapers_Basic" />
-  <project path="packages/wallpapers/Galaxy4" name="CyanogenMod/android_packages_wallpapers_Galaxy4" />
-  <project path="packages/wallpapers/HoloSpiral" name="CyanogenMod/android_packages_wallpapers_HoloSpiral" />
   <project path="packages/wallpapers/LivePicker" name="CyanogenMod/android_packages_wallpapers_LivePicker" />
-  <project path="packages/wallpapers/MagicSmoke" name="CyanogenMod/android_packages_wallpapers_MagicSmoke" />
-  <project path="packages/wallpapers/MusicVisualization" name="CyanogenMod/android_packages_wallpapers_MusicVisualization" />
-  <project path="packages/wallpapers/NoiseField" name="CyanogenMod/android_packages_wallpapers_NoiseField" />
   <project path="packages/wallpapers/PhaseBeam" name="CyanogenMod/android_packages_wallpapers_PhaseBeam" />
   <project path="packages/wallpapers/PhotoPhase" name="CyanogenMod/android_packages_wallpapers_PhotoPhase" />
   <project path="pdk" name="platform/pdk" remote="aosp" revision="refs/tags/android-4.4.4_r2" groups="pdk" />
