@@ -488,6 +488,10 @@
   <project path="packages/apps/AboutAOGP" name="AOGP/android_packages_apps_AboutAOGP" revision="master" />
   <project path="packages/apps/SamsungServiceMode" name="CyanogenMod/android_packages_apps_SamsungServiceMode" />
   <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" />
+
+  <!-- Toolchains -->
+  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" name="AOGP/toolchain_linaro" revision="4.8-eabi-stable" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" name="AOGP/toolchain_linaro" revision="4.8-androideabi-stable" />
   
   <!--AOGP devices, kernels, vendors-->
   <project name="AOGP/android_vendor_samsung_i9082" path="vendor/samsung/i9082" remote="github" revision="kitkat" groups="notdefault,vendor,samsung" />
