@@ -26,7 +26,6 @@
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" />
   <project path="bionic" name="CyanogenMod/android_bionic" />
   <project path="bootable/diskinstaller" name="CyanogenMod/android_bootable_diskinstaller" />
-  <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" />
   <project path="cts" name="platform/cts" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
   <project path="dalvik" name="CyanogenMod/android_dalvik" />
   <project path="development" name="CyanogenMod/android_development" />
@@ -393,5 +392,5 @@
   <project name="baran0119/android_device_samsung_baffinlite" path="device/samsung/baffinlite" remote="github" revision="cm-10.1" />
   <project name="baran0119/kernel_samsung_baffinlitexx" path="kernel/samsung/baffinlite" remote="github" revision="cm-10.1" />
   <project name="baran0119/device_samsung_bcm-common" path="device/samsung/bcm_common" remote="github" revision="master" />
-  <project name="TeamWin/Team-Win-Recovery-Project" path="bootable/recovery-twrp" remote="github" revision="twrp2.5" />
+  <project name="TeamWin/Team-Win-Recovery-Project" path="bootable/recovery" remote="github" revision="twrp2.5" />
 </manifest>
