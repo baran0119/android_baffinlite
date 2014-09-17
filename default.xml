@@ -499,9 +499,8 @@
   <project name="AOGP/android_kernel_samsung_i9082" path="kernel/samsung/i9082" remote="github" revision="kitkat" groups="notdefault,kernel,i9082" />
   
    <!--Baffinlite devices, kernels, vendors-->
-  <project name="baran0119/android_vendor_samsung_baffinlite" path="vendor/samsung/baffinlite" remote="github" revision="master" />
+  <project name="baran0119/android_vendor_samsung_baffinlite" path="vendor/samsung/baffinlite" remote="github" revision="cm-11.0" />
   <project name="baran0119/android_device_samsung_baffinlite" path="device/samsung/baffinlite" remote="github" revision="cm-11.0" />
   <project name="baran0119/kernel_samsung_baffinlitexx" path="kernel/samsung/baffinlite" remote="github" revision="cm-11.0" />
-  <project name="baran0119/device_samsung_bcm-common" path="device/samsung/bcm_common" remote="github" revision="master" />
 
 </manifest>
