@@ -498,5 +498,7 @@
   
   <!--Baffinlite devices, kernels, vendors-->
   <project name="baran0119/android_device_samsung_baffinlite" path="device/samsung/baffinlite" remote="github" revision="cm-11.0" />
+  <project name="baran0119/kernel_samsung_baffinlitexx" path="kernel/samsung/baffinlite" remote="github" revision="cm-11.0" />
+  <project name="baran0119/android_vendor_samsung_baffinlite" path="vendor/samsung/baffinlite" remote="github" revision="cm-11.0" />
   <project name="PhilZ-cwm6/philz_touch_cwm6" path="bootable/recovery-philz" remote="github" revision="cm-11.0" />
 </manifest>
